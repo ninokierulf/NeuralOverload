@@ -1,39 +1,43 @@
 ## Web Tools
-* http://slides.com/  
-* https://speakerdeck.com  
+* [slides.com](http://slides.com/) - powerpoint
+* [speakerdeck.com](https://speakerdeck.com) - powerpoint  
 
 ## Mac Tools I Use
 
+
 #### Dev
-* AppCode
+* **AppCode** - ide for iOS/Mac development
 * Bee - Issue Tracker
-* Sketch
-* ColorSnapper
+
 * Crashlytics - Analytics, Distribution, Crash Report
 * Cornerstone - svn
-* Core Data Editor
-* Briefs - prototype
-* GitHub for Mac - git
-* Mou - markdown
-* Kaleidoscope - compare
-* PaintCode - 
-* Prepo - icon in all iOS sizes
-* Reveal
-* Slender - optimize code 
-* Spark Inspector
-* TextMate
-* Tower - git
 * Versions - svn
-* Charles Proxy
-* ObjClean
+* Tower - git
+* GitHub for Mac - git
+* Kaleidoscope - compare
+* SublimeText 2 - text editor with multi prog lang support
+* TextMate - ^ditto
+* Mou - markdown
+* Prepo - icon in all iOS sizes
+* Slender - optimize code. also see deploymate
+* Sketch
+* ColorSnapper
+* Briefs - prototype
+* PaintCode - 
 * QuartzCode - animation
-* Dash - documentation 
+* Spark Inspector - UI Runtime Inspector
+* Reveal - UI Runtime Inspector
+* Charles Proxy - network requests sniffer
 * Paw - REST
-* SublimeText
+* ObjClean - enforcer of code style
+* Core Data Editor
+* Dash - documentation 
+
 
 #### Design
 * DeckSet - Markup to PPT
 * Ember - Snapshot, Screenshot  
+
 
 #### Non Dev
 * SizeUp - mac window helper
@@ -46,8 +50,12 @@
 * daisy disk
 * unclutter  
 
+
 #### To Have
 * deploymate - analyze deprecate calls depending on target iOS version   
+
+
 #### To Understand
-https://slack.com/integrations
+* https://slack.com/integrations
+* https://travis-ci.org/recent - Continuous Integration
 

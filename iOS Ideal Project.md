@@ -13,5 +13,5 @@ Using the ff:
 - Functional Reactive Programming   
 - Sketch (design) [optional] 
 ``` 
-- http://artsy.github.io/blog/2014/11/13/eidolon-retrospective/
+* http://artsy.github.io/blog/2014/11/13/eidolon-retrospective/
 

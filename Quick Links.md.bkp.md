@@ -1,6 +1,6 @@
 ## Quick Links
 
-#### GitHub
+#### GitHub [Repo]!abc  
 [Life] > [Milestones] > [Issue List] > [New Issue]  
 [Neural Overload]
   
@@ -9,7 +9,7 @@
 
 
 
-
+[Repo]: https://github.com/ninokierulf?tab=repositories
 [Life]: https://github.com/ninokierulf/Life
 [Milestones]: https://github.com/ninokierulf/Life/milestones
 [Issue List]: https://github.com/ninokierulf/Life/issues

@@ -5,12 +5,11 @@
 
 
 ## Libraries
-https://github.com/Quick/Quick
+[Quick](https://github.com/Quick/Quick) - BDD style
 
 
 ## Links
 https://vimeo.com/102163542
-
 
 
 ## Articles
