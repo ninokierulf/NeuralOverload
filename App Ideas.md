@@ -30,7 +30,7 @@
 - [app] how are you feelinng now
 	- scheduled at the end of day, customizable
 	- set emotion, set 0 to 10 by swiping up down
-	
+- secret md files, public but encrypted,
 	
 ## Appname Ideas
 - GeneSix - genesis of six

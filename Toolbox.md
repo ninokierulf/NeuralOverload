@@ -1,7 +1,3 @@
-## Web Tools
-* [slides.com](http://slides.com/) - powerpoint
-* [speakerdeck.com](https://speakerdeck.com) - powerpoint  
-
 ## Mac Tools I Use
 
 
@@ -18,6 +14,7 @@
 * SublimeText 2 - text editor with multi prog lang support
 * TextMate - ^ditto
 * Mou - markdown
+* Marked[unlicensed] - markdown preview - 
 * Prepo - icon in all iOS sizes
 * Slender - optimize code. also see deploymate
 * Sketch
@@ -48,7 +45,8 @@
 * ynab - budgeting
 * MacBartender - Clean up Mac Menu Bar
 * daisy disk
-* unclutter  
+* unclutter
+* [popcorn-time] - Movie/TV Streaming using Torrent   
 
 
 #### To Have
@@ -58,4 +56,8 @@
 #### To Understand
 * https://slack.com/integrations
 * https://travis-ci.org/recent - Continuous Integration
+* Sketch
 
+## Inbox
+[popcorn-time]: https://popcorn-time.se/
+https://github.com/orta/Wallpapers

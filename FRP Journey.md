@@ -83,13 +83,11 @@ ReactiveCocoa(RAC) notable differences include:
 * [FRP in Swift](https://speakerdeck.com/chriseidhof/functional-programming-in-swift) by Chris Eidhof
 * [Enemy of the State](https://speakerdeck.com/jspahrsummers/enemy-of-the-state) by @jspahrsummers
 * [LearnYouAHaskell](http://learnyouahaskell.com/chapters)
+* [Rx 101](http://rxwiki.wikidot.com/101samples)
+* [RAC](http://www.slideshare.net/Cegeka/reactive-cocoa-v2-copy) presentation by Cegeka
+* [Swift FR](http://www.slideshare.net/alexis_gallagher/swift-functional-programming-and-the-future-of-obj-c) presentation by alexis_gallagher
 
 ## Libraries
 * [Functional ViewControllers](https://github.com/chriseidhof/functional-view-controllers) by Chris Eidhof
 	: Here's an [article](http://chris.eidhof.nl/posts/functional-view-controllers.html) about it
 
-
-## TODO: digression. (to some other md file)
-[Facebook Projects](https://code.facebook.com/projects/)  
-http://ninokierulf.github.io/   ** <-- finish this **  
-https://designcode.io/learn  

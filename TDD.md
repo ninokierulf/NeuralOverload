@@ -12,6 +12,10 @@
 https://vimeo.com/102163542
 
 
+## Sites/Blogs
+http://qualitycoding.org/
+
 ## Articles
-[Testing](http://www.objc.io/issue-15/)
+[Testing](http://www.objc.io/issue-15/) - Testing 
 [MVVM](http://www.objc.io/issue-13/mvvm.html)
+http://qualitycoding.org/uiviewcontroller-tdd/

@@ -54,9 +54,12 @@
 - wwdc
 - agile methodologies and technologies
 
-
-
+- talking to future/past self - advices
 
 ## Misc
 tl;dr. summary of every post
+
+
+
+
 
